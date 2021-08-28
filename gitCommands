@@ -1,0 +1,7 @@
+GIT  Commands
+•	mkdir – Creates a new Folder
+•	ls         -  Used to see all the Folder & Files in Project
+•	git_init – To initialized empty git Repository
+•	touch file_name.txt – To Create new Text File
+•	git add file_name – to add file into Staging Area
+•	git status – to check the Status of File
